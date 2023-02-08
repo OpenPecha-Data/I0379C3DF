@@ -1,0 +1,43 @@
+id: e33f6107802041228c42086e4ba1e98c
+annotation_type: index
+revision: '00001'
+annotations:
+  e4eae6d3eac54334b411ae9925c1e7b3:
+    base: 9EA2.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 255
+    - title: I. The Occasion
+      span:
+        start: 256
+        end: 4901
+    - title: II. Introduction
+      span:
+        start: 4902
+        end: 45911
+    - title: III. 37 Questions
+      span:
+        start: 45912
+        end: 50359
+    - title: IV. 37 Answers
+      span:
+        start: 50360
+        end: 215670
+    - title: V. Miracle
+      span:
+        start: 215671
+        end: 230655
+    - title: VI. Dialogues
+      span:
+        start: 230656
+        end: 418987
+    - title: VII. Transmission
+      span:
+        start: 418988
+        end: 438876
+    - title: Colophon
+      span:
+        start: 438877
+        end: 439213
